@@ -19,3 +19,6 @@ Dieses Projekt demonstriert die automatisierte Verarbeitung großer Finanzdatens
 
 ## Risk Management Engine
 Integrierte Filtermechanismen blockieren vollautomatisiert Trades bei extremen Marktkonditionen (z.B. VIX-Spikes > 10%), unvorteilhaften relativen Volumina oder kritischen Distanzen zum SMA-50 (Volatilitäts-adaptiert).
+
+<img width="1440" height="932" alt="image" src="https://github.com/user-attachments/assets/ea81b901-389d-4680-8d09-574cbcc80c4c" />
+
